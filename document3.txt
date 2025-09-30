@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 //Hello dog
-=======
-//Hello cat
->>>>>>> Branch2
 //Hello world
 //Hello world
 //Hello world
